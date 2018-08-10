@@ -9,3 +9,5 @@
 	<logger name="jdbc.resultsettable" level="ERROR" />
 	<logger name="jdbc.connection" level="INFO" />
 </configuration>
+
+<!-- 경민 수정! -->
