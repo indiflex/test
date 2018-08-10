@@ -27,7 +27,8 @@
 		<property name="password" value="root1!"></property>
 	</bean>
 	
-	<!-- <bean id="dataSource"
+
+	<!-- <bean id="dataSource" 고상아 김찬
 		class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 		<property name="driverClassName"
 			value="net.sf.log4jdbc.DriverSpy"></property>
