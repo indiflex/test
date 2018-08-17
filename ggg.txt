@@ -5,6 +5,8 @@ sourceCompatibility = 1.8   // 자바 버전입니다.
 targetCompatibility = 1.8
  
 version = '1.0'
+
+/////////////////////////////////////////////////////////////////
  
 // 귀찮은 버전관리를 편하게 하기 위해서
 def version = [
